@@ -10,7 +10,8 @@ Licensing:
 > The content provided has no license.
 > Any individual can copy, distribute or share any content provided in this repository. 
 
-My Affiliation/Credit
+My Affiliation/Credit:
+
 https://replit.com/@Hyp3rr
 https://github.com/hyperninja303
 Discord: Hyp_r#6011
